@@ -1,0 +1,3 @@
+[
+    {"bag_name":"GS3_left_L_0409_1_2024-04-09-15-18-27","bag_path":"/home/example/GS3_left_L_0409_1_2024-04-09-15-18-27.bag","camera_topic":"/GS3_left_L/camera_info","img_topic":"/GS3_left_L/image_raw","output_name":"GS3_left_L_0409","fps":"30","compression":0}
+]
